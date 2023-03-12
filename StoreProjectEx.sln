@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreProjectEx", "StoreProjectEx\StoreProjectEx.csproj", "{F77802A0-5C8A-4723-A948-6A7F8E72CC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBl", "StoreBl\StoreBl.csproj", "{ACD1D11D-DDF2-4935-B70E-A68D81F8740F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77802A0-5C8A-4723-A948-6A7F8E72CC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77802A0-5C8A-4723-A948-6A7F8E72CC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77802A0-5C8A-4723-A948-6A7F8E72CC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77802A0-5C8A-4723-A948-6A7F8E72CC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD1D11D-DDF2-4935-B70E-A68D81F8740F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD1D11D-DDF2-4935-B70E-A68D81F8740F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD1D11D-DDF2-4935-B70E-A68D81F8740F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD1D11D-DDF2-4935-B70E-A68D81F8740F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFF3377-BFF5-433C-A7B6-2A2D7F128D36}
+	EndGlobalSection
+EndGlobal
